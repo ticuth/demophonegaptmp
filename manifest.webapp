@@ -1,0 +1,28 @@
+{
+    "version": "1.0",
+    "name": "DemoPhoneGap",
+    "description": "Demo phonegap",
+    "launch_path": "/index.html",
+    "orientation": ["portrait"],
+    "icons": {
+        "128": "/logo.png"
+    },
+    "developer": {
+        "name": "Gustavo Adolfo Flores González",
+        "url": "http://www.tic-uth.net/gflores/"
+    },
+    "installs_allowed_from": ["*"],
+    "locales": {
+        "en": {
+            "description": "TIC UTH info - Gustavo Flores",
+            "developer": {
+				"name": "Gustavo Adolfo Flores González",
+				"url": "http://www.tic-uth.net/gflores/"
+            }
+        }
+    },
+    "default_locale": "es",
+    "permissions": {     
+    },
+    "fullscreen": "true"
+}
